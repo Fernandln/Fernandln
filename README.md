@@ -15,8 +15,8 @@ Atualmente, estou me aprofundando em:
 
 Aqui você pode ver alguns dos projetos que estou desenvolvendo durante o meu curso e os projetos pessoais que vou criando para aprender mais.
 
-- [PokemonFinder](https://github.com/Fernandln/Projeto_PokemonFinder) - Descrição breve do projeto.
-- [GranmaGame](https://github.com/Fernandln/granmagame) - Descrição breve do projeto.
+- [PokemonFinder](https://github.com/Fernandln/Projeto_PokemonFinder) - Um projeto onde pratico requisições da pokeAPI.
+- [GranmaGame](https://github.com/Fernandln/granmagame) - Um jogo da velha em navegador.
 
 ## 🚀 Vamos nos conectar!
 
